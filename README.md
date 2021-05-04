@@ -27,6 +27,7 @@
 | [Lazy Admin][20]                       | Easy         |
 | [Overpass][21]                         | Easy         |
 | [Anonymous][22]                        | Medium       |
+| [VulnNet: Node][23]                    | Medium       |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -50,3 +51,4 @@
 [20]: ./lazy-admin
 [21]: ./overpass
 [22]: ./anonymous
+[23]: ./vulnet-node
