@@ -28,6 +28,7 @@
 | [Overpass][21]                         | Easy         |
 | [Anonymous][22]                        | Medium       |
 | [VulnNet: Node][23]                    | Medium       |
+| [Anonforce][24]                        | Easy         |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -52,3 +53,4 @@
 [21]: ./overpass
 [22]: ./anonymous
 [23]: ./vulnet-node
+[24]: ./anonforce
