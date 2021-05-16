@@ -29,6 +29,7 @@
 | [Anonymous][22]                        | Medium       |
 | [VulnNet: Node][23]                    | Medium       |
 | [Anonforce][24]                        | Easy         |
+| [Thompson][25]                         | Easy         |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -54,3 +55,4 @@
 [22]: ./anonymous
 [23]: ./vulnet-node
 [24]: ./anonforce
+[25]: ./thompson
