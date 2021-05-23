@@ -30,6 +30,7 @@
 | [VulnNet: Node][23]                    | Medium       |
 | [Anonforce][24]                        | Easy         |
 | [Thompson][25]                         | Easy         |
+| [Ignite][26]                           | Easy         |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -56,3 +57,4 @@
 [23]: ./vulnet-node
 [24]: ./anonforce
 [25]: ./thompson
+[26]: ./ignite
