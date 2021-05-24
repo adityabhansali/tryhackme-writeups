@@ -123,5 +123,5 @@ Check the content of the `test.txt` file. If may take sometime.
 
 
 [1]: https://tryhackme.com/room/bsidesgtthompson
-[2]: https://www.hackhunt.in/search/label/Nmaps
+[2]: https://www.hackhunt.in/search/label/Nmap
 [3]: https://www.hackingarticles.in/multiple-ways-to-exploit-tomcat-manager/

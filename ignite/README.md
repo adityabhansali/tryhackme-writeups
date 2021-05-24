@@ -139,4 +139,4 @@ You have the root access. You know what to do next :stuck_out_tongue_winking_eye
 ![Root Flag](images/root_flag.png)
 
 [1]: https://tryhackme.com/room/ignite
-[2]: https://www.hackhunt.in/search/label/NmapsM
+[2]: https://www.hackhunt.in/search/label/Nmap
