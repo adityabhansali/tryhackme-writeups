@@ -4,34 +4,34 @@
 
 ## ROOMS
 
-|	Name                                   | Difficulty   |
-| -------------------------------------- | -------------|
-| [Vulnversity][2]                       | Easy         |
-| [Kenobi][3]                            | Easy         |
-| [Blue][4]                              | Easy         |
-| [Basic Pentesting][5]                  | Easy         |
-| [Classic Passwd][6]                    | Medium       |
-| [JPGChat][7]                           | Easy         |
-| [Regular expressions][8]               | Easy         |
-| [Crack the hash][9]                    | Easy         |
-| [tomghost][10]                         | Easy         |
-| [Team][11]                             | Medium       |
-| [Mr. Robot CTF][12]                    | Medium       |
-| [OhSINT][13]                           | Easy         |
-| [Simple CTF][14]                       | Easy         |
-| [Pickle Rick][15]                      | Easy         |
-| [CTF collection Vol.1][16]             | Easy         |
-| [Badbyte][17]                          | Easy         |
-| [Bounty Hacker][18]                    | Easy         |
-| [Metasploit][19]                       | Easy         |
-| [Lazy Admin][20]                       | Easy         |
-| [Overpass][21]                         | Easy         |
-| [Anonymous][22]                        | Medium       |
-| [VulnNet: Node][23]                    | Medium       |
-| [Anonforce][24]                        | Easy         |
-| [Thompson][25]                         | Easy         |
-| [Ignite][26]                           | Easy         |
-| [Startup][27]                          | Easy         |
+|	Name                                   | Description                         |
+| -------------------------------------- | ------------------------------------|
+| [Vulnversity][2]                       | - File Upload Vulnerability<br>- Privilege Escalation via `systemctl`    |
+| [Kenobi][3]                            | - Samba Share Enumeration<br>- ProFTPd Exploit<br>- Privilege Escalation with Path Variable Manipulation   |
+| [Blue][4]                              | - Eternal Blue (ms17-010)<br>- Use of `msfconsole`     |
+| [Basic Pentesting][5]                  | - `enum4linux`<br>- SSH Password Cracking via Hydra<br>- `linPEAS`<br> - Cracking SSH Private Key via `JohnTheRipper`     |
+| [Classic Passwd][6]                    | - Reverse Engineering using `ltrace`   |
+| [JPGChat][7]                           | - Source Code Reading<br>- Python Library Manipulation     |
+| [Regular expressions][8]               | - Basics of RE     |
+| [Crack the hash][9]                    | - Crack Station<br>- Hash Analyzer<br>- HashCat<br>- JohnTheRipper     |
+| [tomghost][10]                         | - AJP Exploit (CVE-2020-1938)<br>- GPG Cracking via JohnTheRipper     |
+| [Team][11]                             | - Source Code Reading<br>- Virtual Host Routing<br>- Subdomains Finder via `WFUZZ`<br>- LFI<br>- linPEAS<br>- CronJobs   |
+| [Mr. Robot CTF][12]                    | - GoBuster Scan<br>- Web Login Dictionary Attack via BurpSuite<br>- PHP Reverse Shell<br>- SUID via Nmap   |
+| [OhSINT][13]                           | - exiftool     |
+| [Simple CTF][14]                       | - CMS Made Simple (CVE-2019-9053)<br>- SQLi     |
+| [Pickle Rick][15]                      | - Source Code Read<br>- Command Injection Vulnerability     |
+| [CTF collection Vol.1][16]             | -----    |
+| [Badbyte][17]                          | - FTP Anonymous Login<br>- SSH Password Cracking via JohnTheRipper<br>- SSH Port Forwarding<br>- WordPress Plugins Enumeration<br>- WordPress File Manager RCE     |
+| [Bounty Hacker][18]                    | - FTP Anonymous Login<br>- SSH Password Cracking via <br>- Privilege Escalation via tar     |
+| [Metasploit][19]                       | ----     |
+| [Lazy Admin][20]                       | - Recursive Directory Enumeration<br>- MySQL Backup File Enumeration<br>- Sweet Rice XSS Exploit<br>- Privilege Escalation via adding `bash` to a file      |
+| [Overpass][21]                         | - Source Code Reading<br>- Broken Authentication Exploit via BurpSuite<br>- SSH Private Key Cracking via JohnTheRipper<br>- Privilege Escalation via CronJobs<br>- Working with Host File     |
+| [Anonymous][22]                        | - Samba Enumeration<br>- FTP Anonymous Login<br>- File Content Manipulation (CronJobs)   |
+| [VulnNet: Node][23]                    | - NodeJS Express Framework Exploit via Cookies<br>- File Content Manipulation   |
+| [Anonforce][24]                        | - FTP Anonymous Login<br>- GPG Password Cracking via JohnTheRipper<br>- Password Cracking via HashCat     |
+| [Thompson][25]                         | - Tomcat Error Page<br>- WAR File Exploit     |
+| [Ignite][26]                           | - Fuel CMS RCE (CVE-2018-16763)<br>- Default Credentials     |
+| [Startup][27]                          | - FTP Anonymous Login<br>- Wireshark (Follow TCP Stream)     |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
