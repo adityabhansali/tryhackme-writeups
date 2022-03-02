@@ -104,5 +104,5 @@ Now you can run commands like `cat`, `head`, etc.
 
 
 [1]: https://tryhackme.com/room/picklerick
-[2]: https://www.hackhunt.in/search/label/Nmap
+[2]: https://blog.hackhunt.in/search/label/Nmap
 [3]: https://gtfobins.github.io/gtfobins/bash/#reverse-shell

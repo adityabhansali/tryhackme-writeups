@@ -83,7 +83,7 @@ The data from the file *root.txt* is copied to a file called *output* in *tmp* d
 
 
 [1]: https://gist.github.com/abhi-agrawl/87aa4e87f999c7ff3fc99e7a8d0e665e
-[2]: https://www.hackhunt.in/2021/02/nmap-port-specification.html
+[2]: https://blog.hackhunt.in/2021/02/nmap-port-specification.html
 [3]: https://www.hackingarticles.in/linux-privilege-escalation-using-suid-binaries/
 [4]: https://gtfobins.github.io/gtfobins/systemctl/
 [5]: https://tryhackme.com/room/vulnversity

@@ -107,7 +107,7 @@ You know what to do next :satisfied:
 ![Root Flag](images/root_flag.jpg)
 
 [1]: https://tryhackme.com/room/lazyadmin
-[2]: https://www.hackhunt.in/search/label/Nmap
+[2]: https://blog.hackhunt.in/search/label/Nmap
 [3]: https://crackstation.net/
 [4]: https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
 [5]: https://gtfobins.github.io/gtfobins/bash/

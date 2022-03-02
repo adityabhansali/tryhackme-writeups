@@ -77,5 +77,5 @@ You know what to do next :stuck_out_tongue_winking_eye:
 
 
 [1]: https://tryhackme.com/room/bsidesgtanonforce
-[2]: https://www.hackhunt.in/search/label/Nmap
+[2]: https://blog.hackhunt.in/search/label/Nmap
 [3]: https://hashcat.net/wiki/doku.php?id=hashcat

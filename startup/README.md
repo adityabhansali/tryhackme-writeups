@@ -186,5 +186,5 @@ Now, we have the root access. You know what to do next :stuck_out_tongue_winking
 ![Root Flag](images/root_flag.png)
 
 [1]: https://tryhackme.com/room/startup
-[2]: https://www.hackhunt.in/search/label/Nmap
+[2]: https://blog.hackhunt.in/search/label/Nmap
 [3]: https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php

@@ -64,5 +64,5 @@ This can be used to search on `wigle.net` to get from information.
 
 
 [1]: https://tryhackme.com/room/ohsint
-[2]: https://www.hackhunt.in/2021/03/metadata-explained.html
-[3]: https://www.hackhunt.in/2021/03/extraction-of-metadata.html
+[2]: https://blog.hackhunt.in/2021/03/metadata-explained.html
+[3]: https://blog.hackhunt.in/2021/03/extraction-of-metadata.html

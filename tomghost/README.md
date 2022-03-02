@@ -61,5 +61,5 @@ sudo zip $TF /etc/host -T -TT 'sh #'
 ![Root Flag](images/root_flag.jpg)
 
 [1]: https://tryhackme.com/room/tomghosts
-[2]: https://www.hackhunt.in/search/label/Nmap
+[2]: https://blog.hackhunt.in/search/label/Nmap
 [3]: https://github.com/00theway/Ghostcat-CNVD-2020-10487

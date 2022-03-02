@@ -122,5 +122,5 @@ You know what to do next :stuck_out_tongue_winking_eye:
 
 
 [1]: https://tryhackme.com/room/overpass
-[2]: https://www.hackhunt.in/search/label/Nmap
-[3]: https://www.hackhunt.in/2020/12/block-access-to-websites-for-your-pc.html
+[2]: https://blog.hackhunt.in/search/label/Nmap
+[3]: https://blog.hackhunt.in/2020/12/block-access-to-websites-for-your-pc.html

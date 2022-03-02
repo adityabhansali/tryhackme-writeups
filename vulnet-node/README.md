@@ -124,7 +124,7 @@ You know what to do next :stuck_out_tongue_winking_eye:
 ![Root Flag](images/root_flag.jpg)
 
 [1]: https://tryhackme.com/room/vulnnetnode
-[2]: https://www.hackhunt.in/search/label/Nmap
+[2]: https://blog.hackhunt.in/search/label/Nmap
 [3]: https://gchq.github.io/CyberChef/
 [4]: https://www.exploit-db.com/docs/english/41289-exploiting-node.js-deserialization-bug-for-remote-code-execution.pdf
 [5]: https://gtfobins.github.io/gtfobins/npm/

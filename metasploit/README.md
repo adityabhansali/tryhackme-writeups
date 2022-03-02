@@ -229,5 +229,5 @@ To Background a session type `background`
 > ***proxychains***
 
 [1]: https://tryhackme.com/room/rpmetasploit
-[2]: https://www.hackhunt.in/search/label/Nmap
+[2]: https://blog.hackhunt.in/search/label/Nmap
 [3]: https://tryhackme.com/room/ice

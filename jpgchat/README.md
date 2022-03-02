@@ -162,4 +162,4 @@ You know where to find the ROOT flag.
 
 
 [1]: https://tryhackme.com/room/jpgchat
-[2]: https://www.hackhunt.in/search/label/Nmap
+[2]: https://blog.hackhunt.in/search/label/Nmap

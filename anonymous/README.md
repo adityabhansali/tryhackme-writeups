@@ -96,6 +96,6 @@ You know what to do next :stuck_out_tongue_winking_eye:
 ![Root Flag](images/root_flag.jpg)
 
 [1]: https://tryhackme.com/room/anonymous
-[2]: https://www.hackhunt.in/search/label/Nmap
+[2]: https://blog.hackhunt.in/search/label/Nmap
 [3]: https://www.exploit-db.com/exploits/46978
 [4]: https://gtfobins.github.io/

@@ -123,7 +123,7 @@ You know what to do next :stuck_out_tongue_winking_eye:
 ![Key 3](images/key3.jpg)
 
 [1]: https://tryhackme.com/room/mrrobot
-[2]: https://www.hackhunt.in/search/label/Nmap
+[2]: https://blog.hackhunt.in/search/label/Nmap
 [3]: https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
 [4]: https://crackstation.net/
 [5]: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md#suid

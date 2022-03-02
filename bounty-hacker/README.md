@@ -80,5 +80,5 @@ We got the ROOT access. You know what to do next :wink:
 ![ROOT FLAG](images/root_flag.jpg)
 
 [1]: https://tryhackme.com/room/cowboyhacker
-[2]: https://www.hackhunt.in/search/label/Nmap
+[2]: https://blog.hackhunt.in/search/label/Nmap
 [3]: https://gtfobins.github.io/

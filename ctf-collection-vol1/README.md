@@ -211,7 +211,7 @@ I just hacked my neighbor's WiFi and try to capture some packet. He must be up t
 
 [1]: https://tryhackme.com/room/ctfcollectionvol1
 [2]: https://gchq.github.io/CyberChef/
-[3]: https://www.hackhunt.in/2021/03/list-of-common-hex-headers.html
+[3]: https://blog.hackhunt.in/2021/03/list-of-common-hex-headers.html
 [4]: https://www.dcode.fr/brainfuck-language
 [5]: https://toolslick.com/math/bitwise/xor-calculator
 [6]:https://www.rapidtables.com/convert/number/decimal-to-hex.html

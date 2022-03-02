@@ -146,7 +146,7 @@ You know what to do next :stuck_out_tongue_winking_eye:
 ![Root Flag](images/root_flag.jpg)
 
 [1]: https://tryhackme.com/room/teamcw
-[2]: https://www.hackhunt.in/search/label/Nmap
+[2]: https://blog.hackhunt.in/search/label/Nmap
 [3]: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion/Intruders/Linux-files.txt
 [4]: https://tryhackme.com/room/adventofcyber2
 [5]: https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/subdomains-top1million-20000.txt

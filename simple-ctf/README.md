@@ -96,6 +96,6 @@ Run the commands.
 ![Root Flag](images/root_flag.jpg)
 
 [1]: https://tryhackme.com/room/easyctf
-[2]: https://www.hackhunt.in/search/label/Nmap
+[2]: https://blog.hackhunt.in/search/label/Nmap
 [3]: https://pypi.org/project/termcolor/#files
 [4]: https://gtfobins.github.io/gtfobins/vim/

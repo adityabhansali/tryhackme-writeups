@@ -127,6 +127,6 @@ Flag3? This flag can be found in an excellent location to loot. After all, Admin
 ![Flag3](images/flag3.jpg)
 
 [1]: https://tryhackme.com/room/blue
-[2]: https://www.hackhunt.in/search/label/Nmap
+[2]: https://blog.hackhunt.in/search/label/Nmap
 [3]: https://crackstation.net/
 [4]: https://github.com/frizb/Hashcat-Cheatsheet

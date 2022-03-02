@@ -186,7 +186,7 @@ Or simple `su`command
 ![Root Flag](images/root_flag.jpg)
 
 [1]: https://tryhackme.com/room/badbyte
-[2]: https://www.hackhunt.in/search/label/Nmap
+[2]: https://blog.hackhunt.in/search/label/Nmap
 [3]: https://securitytrails.com/blog/cms-detector
 [4]: https://hackertarget.com/attacking-wordpress/#directory-indexing
 [5]: https://cve.mitre.org/cve/search_cve_list.html
