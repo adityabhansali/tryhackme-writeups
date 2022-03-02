@@ -22,7 +22,7 @@
 | [Pickle Rick][15]                      | - Source Code Read<br>- Command Injection Vulnerability     |
 | [CTF collection Vol.1][16]             | -----    |
 | [Badbyte][17]                          | - FTP Anonymous Login<br>- SSH Password Cracking via JohnTheRipper<br>- SSH Port Forwarding<br>- WordPress Plugins Enumeration<br>- WordPress File Manager RCE     |
-| [Bounty Hacker][18]                    | - FTP Anonymous Login<br>- SSH Password Cracking via <br>- Privilege Escalation via tar     |
+| [Bounty Hacker][18]                    | - FTP Anonymous Login<br>- SSH Password Cracking via Hydra <br>- Privilege Escalation via tar     |
 | [Metasploit][19]                       | ----     |
 | [Lazy Admin][20]                       | - Recursive Directory Enumeration<br>- MySQL Backup File Enumeration<br>- Sweet Rice XSS Exploit<br>- Privilege Escalation via adding `bash` to a file      |
 | [Overpass][21]                         | - Source Code Reading<br>- Broken Authentication Exploit via BurpSuite<br>- SSH Private Key Cracking via JohnTheRipper<br>- Privilege Escalation via CronJobs<br>- Working with Host File     |
@@ -32,6 +32,7 @@
 | [Thompson][25]                         | - Tomcat Error Page<br>- WAR File Exploit     |
 | [Ignite][26]                           | - Fuel CMS RCE (CVE-2018-16763)<br>- Default Credentials     |
 | [Startup][27]                          | - FTP Anonymous Login<br>- Wireshark (Follow TCP Stream)     |
+| [Brooklyn Nine Nine][28]               | - FTP Anonymous Login<br> - SSH Password Cracking via Hydra<br> - Privilege Escalation via `less`
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -60,3 +61,4 @@
 [25]: ./thompson
 [26]: ./ignite
 [27]: ./startup
+[28]: ./brooklyn99
