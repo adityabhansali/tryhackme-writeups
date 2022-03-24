@@ -32,7 +32,8 @@
 | [Thompson][25]                         | - Tomcat Error Page<br>- WAR File Exploit     |
 | [Ignite][26]                           | - Fuel CMS RCE (CVE-2018-16763)<br>- Default Credentials     |
 | [Startup][27]                          | - FTP Anonymous Login<br>- Wireshark (Follow TCP Stream)     |
-| [Brooklyn Nine Nine][28]               | - FTP Anonymous Login<br> - SSH Password Cracking via Hydra<br> - Privilege Escalation via `less`
+| [Brooklyn Nine Nine][28]               | - FTP Anonymous Login<br> - SSH Password Cracking via Hydra<br> - Privilege Escalation via `less` |
+| [Hydra][29]     | - Basic of Hydra<br>- Crack `Post Web Form`<br>- Crack SSH |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -62,3 +63,4 @@
 [26]: ./ignite
 [27]: ./startup
 [28]: ./brooklyn99
+[29]: ./hydra
