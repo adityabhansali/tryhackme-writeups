@@ -34,6 +34,7 @@
 | [Startup][27]                          | - FTP Anonymous Login<br>- Wireshark (Follow TCP Stream)     |
 | [Brooklyn Nine Nine][28]               | - FTP Anonymous Login<br> - SSH Password Cracking via Hydra<br> - Privilege Escalation via `less` |
 | [Hydra][29]     | - Basic of Hydra<br>- Crack `Post Web Form`<br>- Crack SSH |
+| [Chocolate Factory][30] | - FTP Anonymous Login<br>- Command Injection Vulnerability<br>- Reverse Engineering<br>- SUIDs |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -64,3 +65,4 @@
 [27]: ./startup
 [28]: ./brooklyn99
 [29]: ./hydra
+[30]: ./chocolate-factory
