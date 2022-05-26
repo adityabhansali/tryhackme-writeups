@@ -16,6 +16,15 @@ Web server is running on `port 80`. Found nothing on the website, but in the sou
 ![Source Code](images/source_code.png)
 
 > Downloaded the image (URL: http://<IP>/brooklyn99.jpg) and tried `binwalk` and `steghide`. Found nothing much, so moving on!
+  
+ In steghide use command: 
+ > $ steghide extract -ef Image_file_name.jpeg
+
+it will ask for password: just enter admin
+  
+you will found a note.txt which will contain holt password.
+
+If you don't want to do steganography then go for this.
 
 FTP Anonymous login is enabled, let's login. CMD - `ftp <IP>`
 
